@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text-h{
+    font-size: x-small;
+    color: #e6e6d6;
+}
+.ic{
+    display: flex;
+    font-weight: bolder;
+    align-items: center;
+    margin-bottom: 0;
+    color: aqua;
+}
+.users{
+    padding: 0;
+    margin: 0;
+}
+.users p{
+    margin: 0;
+    padding: 0;
+}
+.send-btn{
+    width: 77px;
+    padding: 2px;
+    margin: 2px;
+}
